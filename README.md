@@ -36,8 +36,8 @@ Check Anthropic's current documentation for plan availability and the latest UI:
 ## Install in Claude Code
 
 Place the skill folder in either:
-- Personal: `~/.claude/skills/creator-compass/`
-- Project: `.claude/skills/creator-compass/`
+- Personal: `~/.claude/skills/ai-content-creator-toolkit/`
+- Project: `.claude/skills/ai-content-creator-toolkit/`
 
 Then start a task such as: `Use Creator Compass to find and score ideas for my travel channel.`
 
