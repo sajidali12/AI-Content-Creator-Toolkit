@@ -27,7 +27,7 @@ Vloggers, travel creators, food creators, educators, technology creators, gamers
 2. Ensure the skill folder contains `SKILL.md` at its root.
 3. In Claude, open **Settings → Capabilities** and enable code execution and file creation if required by your plan/workspace.
 4. Open **Customize → Skills** (the exact UI label may change).
-5. Choose the option to create or upload a skill and upload the ZIP containing the `creator-compass/` folder.
+5. Choose the option to create or upload a skill and upload the ZIP containing the `ai-content-creator-toolkit/` folder.
 6. Enable the skill.
 7. Start with: `Help me choose my next content topic. My niche is ...`
 
@@ -39,14 +39,14 @@ Place the skill folder in either:
 - Personal: `~/.claude/skills/ai-content-creator-toolkit/`
 - Project: `.claude/skills/ai-content-creator-toolkit/`
 
-Then start a task such as: `Use Creator Compass to find and score ideas for my travel channel.`
+Then start a task such as: `Use AI Content Creator Toolkit to find and score ideas for my travel channel.`
 
 Check current Claude Code documentation for supported configuration and behavior.
 
 ## Repository structure
 
 ```text
-creator-compass/
+ai-content-creator-toolkit/
 ├── SKILL.md
 ├── README.md
 ├── LICENSE
