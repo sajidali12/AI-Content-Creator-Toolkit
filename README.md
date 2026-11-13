@@ -1,7 +1,7 @@
 # AI Content Creator Toolkit
 **Find better ideas. Understand your audience. Create content worth watching.**
 
-Creator Compass is an open-source, platform-aware content strategy skill for vloggers and creators. It helps people discover, validate, prioritize, and develop ideas for short-form and long-form video, blogs, podcasts, and social platforms.
+AI Content Creator Toolkit is an open-source, platform-aware content strategy skill for vloggers and creators. It helps people discover, validate, prioritize, and develop ideas for short-form and long-form video, blogs, podcasts, and social platforms.
 
 It is designed for creators across niches—not only technology or marketing.
 
