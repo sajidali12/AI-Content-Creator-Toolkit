@@ -1,5 +1,5 @@
 # AI Content Creator Toolkit
-**Find better ideas. Understand your audience. Create content worth watching.**
+An open-source AI content ideation and strategy skill for Claude
 
 AI Content Creator Toolkit is an open-source, platform-aware content strategy skill for vloggers and creators. It helps people discover, validate, prioritize, and develop ideas for short-form and long-form video, blogs, podcasts, and social platforms.
 
