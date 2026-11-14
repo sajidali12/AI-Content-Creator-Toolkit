@@ -1,4 +1,4 @@
-# Contributing to Creator Compass
+# Contributing to AI Content Creator Toolkit
 
 Thanks for helping make content strategy more useful and accessible to creators everywhere.
 

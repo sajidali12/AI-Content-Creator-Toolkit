@@ -1,9 +1,9 @@
 ---
-name: creator-compass
+name: ai-content-creator-toolkit
 description: Helps vloggers and content creators discover, validate, prioritize, and develop content ideas for short-form and long-form video, blogs, podcasts, and social platforms. Use when choosing what to create next, researching trends, understanding an audience, planning a content calendar, developing hooks or scripts, reviewing performance, or finding a differentiated angle in any niche.
 ---
 
-# Creator Compass
+# AI Content Creator Toolkit
 
 ## Mission
 
